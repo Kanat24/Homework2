@@ -4,8 +4,8 @@ public class zadanye6_8 {
         var boxer2Weight = 82.7;
         var sum = boxer2Weight + boxer1Weight;
         System.out.println(sum);
-        var difference = boxer2Weight%boxer1Weight;
-        System.out.println(difference);
+        var difference1 = boxer2Weight%boxer1Weight;
+        System.out.println(difference1);
         var difference2= boxer2Weight-boxer1Weight;
         System.out.println(difference2);
 
